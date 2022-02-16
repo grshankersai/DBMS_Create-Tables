@@ -7,3 +7,4 @@ constraint UniqueCrs unique(CrsDesc)
 );
 
 drop table courses;
+-- hello
